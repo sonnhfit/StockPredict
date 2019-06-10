@@ -33,6 +33,15 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 3. Xử lý, phân loại văn bản, trích chọn các từ quan trọng 
 4. Có kiến thức về tiền, giao dịch, sự ảnh hưởng qua lại giữa các yếu tố  trong nền kinh tế, giữa các hàng hóa tác động qua lại với nhau. (Cái này bạn cần có thêm kiến thức về  đạo hàm cơ bản)
 5. Có kiến thức về thống kê đặc biệt cần biết **law of large numbers**
+6. Cần đọc tài liệu về  [chứng khoán](https://drive.google.com/open?id=10byweEWqMbzoKYEEjApWzmNFJvqp1ZLQ)
 
-## H
+## Hướng đi của dự án 
+
+- Ver 1: Phát triển chức năng ước tính giá trị của tiền, hàng hóa theo thời gian, ước tính lợi nhuận và rủi do, ước tính lãi xuất, rủi do 
+- Ver 2: Phân tích các số liệu quá khứ một mặt hàng tác động đến chuỗi cung ứng và tác động với tỷ lệ bao nhiêu 
+- Ver 3: Phân tích đám đông, hiệu ứng lan tỏa qua mạng xã hội và báo chí, tâm lý đám đông, phát hiện yếu tố ảnh hưởng đến giá cổ phiếu và ảnh hưởng bao nhiêu, dự đoán đáy và đỉnh khi 1 hoặc nhiều sự kiện sảy ra
+- V
+
+
+
 
