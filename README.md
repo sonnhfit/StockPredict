@@ -18,6 +18,6 @@ Dự án mã nguồn mở dự đoán và đánh giá chứng khoán, cổ phi�
 
 ### Đối với front end 
 
-1. Có kiến thức về HTML, CSS, javascript. Tối thiểu phải học layout [trang nàyhttps://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
+1. Có kiến thức về HTML, CSS, javascript. Tối thiểu phải học layout [trang này](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
 2.Có kiến thức về  [Typescript](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 3. Angular 
