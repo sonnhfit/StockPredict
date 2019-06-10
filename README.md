@@ -31,7 +31,8 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 1. Việc auto cào dữ liệu từ các site khác bằng [scrapy](https://scrapy.org/)
 2. Có kiến thức cơ bản về machine learning tối thiểu hi vọng các bạn có hiểu biết về những kiến thức [ở đây](https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC) nếu chưa biết thì xem đi nhé
 3. Xử lý, phân loại văn bản, trích chọn các từ quan trọng 
-4. 
+4. Có kiến thức về tiền, giao dịch, sự ảnh hưởng qua lại giữa các yếu tố  trong nền kinh tế, giữa các hàng hóa tác động qua lại với nhau. (Cái này bạn cần có thêm kiến thức về  đạo hàm cơ bản)
+5. Có kiến thức về thống kê đặc biệt cần biết **law of large numbers**
 
-
+## H
 
