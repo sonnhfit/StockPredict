@@ -16,7 +16,7 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 3. Có kiến thức về [python](https://python.org) và [django](https://docs.djangoproject.com/en/2.2/) hoặc tài liệu khóa học tiếng việt của mình [tại đây](https://www.youtube.com/playlist?list=PLZEIt444jqpB1j3RD4BrYm9JmNVYuzVNm)
 4. Có kiến thức về  [Restful API](https://www.django-rest-framework.org/tutorial/quickstart/)
 5. Có kiến thức về  csdl và sử dụng các hệ quản trị like mysql, [postgresql](https://www.postgresql.org/docs/10/index.html)
-
+6. config nginx and deploy webserver
 
 ### Đối với front end 
 
