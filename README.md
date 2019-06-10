@@ -1,7 +1,7 @@
 # StockPredict
-Dự án mã nguồn mở dự đoán và đánh giá chứng khoán, cổ phiếu, trái phiếu doanh nghiệp sử dụng machine learning hỗ trợ ra quyết định đầu tư, chốt lời, chốt lỗ, lên kế hoạch đầu tư .
+Dự án mã nguồn mở dự đoán và đánh giá chứng khoán, cổ phiếu, trái phiếu doanh nghiệp sử dụng machine learning hỗ trợ ra quyết định đầu tư, chốt lời, chốt lỗ, lên kế hoạch đầu tư, định giá .
 
-- Ý tưởng: Bối cảnh thị trường chứng khoán hiện nay chủ yếu dựa trên tâm lý đám đông và và xu thế chung của thị trường cũng như sự ảnh hưởng của các vấn đề kinh tế chính trị trong nước và các quốc gia có tầm ảnh hưởng. Biết rằng thị trường chứng khoán thường biến động và không có quy luật, nhưng mọi thứ đều đi theo quy luật chung của giao dịch và tiền tệ cũng như phụ thuộc vào sự điều chỉnh của nhà nước. Hệ thống sẽ hộ trợ một phần nào hỗ trợ cho việc đầu tư hiệu quả và tối ưu hơn bằng việc sử dụng bigdata, khai phá dữ liệu, machine learning 
+- Ý tưởng: Bối cảnh thị trường chứng khoán hiện nay chủ yếu dựa trên tâm lý đám đông và và xu thế chung của thị trường cũng như sự ảnh hưởng của các vấn đề kinh tế chính trị trong nước và các quốc gia có tầm ảnh hưởng. Biết rằng thị trường chứng khoán thường biến động và không có quy luật, nhưng mọi thứ đều đi theo quy luật chung của giao dịch và tiền tệ cũng như phụ thuộc vào sự điều chỉnh của nhà nước. Hệ thống sẽ hộ trợ một phần nào hỗ trợ cho việc đầu tư hiệu quả và tối ưu hơn bằng việc sử dụng bigdata, khai phá dữ liệu, machine learning, **hỗ trợ thôi nhé**
 
 - Chứng khoán cùng với ngân hàng, bảo hiểm là 3 đòn trụ cột tài chính, kinh tế lớn của 1 quốc gia một quốc gia giàu mạnh hay không người ta nhìn vào các vấn đề an sinh xã hội thị trường chứng khoán cũng như tỷ lệ lạm phát. Vì vậy việc đầu tư chứng khoán là việc giúp các doanh nghiệp trong nước có vốn để làm ăn tạo giá trị cho xã hội, nhưng để đồng tiền đến đúng người,đúng  công ty thì cần có kinh nghiệm, những phân tích về ngành nghề và lĩnh vực kinh doanh cũng như cái nhìn về thị trường, nắm bắt được điều này nên mình bắt tay vào nghiên cứu một dự án để phục vụ cá nhân mình cho việc đầu tư, và mình muốn open source
 
@@ -24,5 +24,14 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 2. Có kiến thức về  [Typescript](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 3. Angular 7 [Tài liệu tại đây](https://angular.io/start)
 4. Hiểu về api và thao tác với API web server, xác thực và phân quyền với JWT
+
+### Machine learning module
+Đối với những bạn join vào machine learning module các bạn cần có kiến thức về 
+
+1. Việc auto cào dữ liệu từ các site khác bằng [scrapy](https://scrapy.org/)
+2. Có kiến thức cơ bản về machine learning tối thiểu hi vọng các bạn có hiểu biết về những kiến thức [ở đây](https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC) nếu chưa biết thì xem đi nhé
+3. Xử lý, phân loại văn bản, trích chọn các từ quan trọng 
+4. 
+
 
 
