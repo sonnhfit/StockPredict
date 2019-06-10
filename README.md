@@ -36,6 +36,13 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 5. Có kiến thức về thống kê đặc biệt cần biết **law of large numbers**
 6. Cần đọc tài liệu về  [chứng khoán](https://drive.google.com/open?id=10byweEWqMbzoKYEEjApWzmNFJvqp1ZLQ)
 
+## Hệ thống 
+- Ubuntu 16.04 cho server
+- python 3.6.6 
+- django 2.2.2 
+- angular 7
+- nodejs v11.13.0
+
 ## Hướng đi của dự án 
 
 - Ver 1: Phát triển chức năng ước tính giá trị của tiền, hàng hóa theo thời gian, ước tính lợi nhuận và rủi do, ước tính lãi xuất, rủi do 
