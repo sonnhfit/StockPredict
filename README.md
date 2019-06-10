@@ -8,7 +8,7 @@ Dự án mã nguồn mở dự đoán và đánh giá chứng khoán, cổ phi�
 ## Yêu cầu về kiến thức 
 - Đố kiến thức bên dưới bạn không cần phải biết hết nhưng mà biết hết thì càng tốt, bạn sẽ chọn 1 module rồi code chuyên sâu về cái đó để thành thạo công nghệ đó rồi nếu bạn thích thì có thể nhẩy qua module khác để luyện công nghệ khác, code của bạn sẽ được mọi người review trước khi được merge vào master 
 ### Điều kiện tiên quyết để tham gia dự án 
-
+Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng GITHUB để làm việc nhóm
 
 ### Đối với backend 
 1. sử dụng thành thạo ubuntu hoặc MacOs quan trọng là [terminal](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
