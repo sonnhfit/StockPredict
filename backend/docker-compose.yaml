@@ -1,0 +1,37 @@
+version: '3.6'
+
+services:
+  stock_web:
+    build: ./stock
+    command: bash -c "python ./stock/manage.py makemigrations && python ./stock/manage.py migrate && python ./stock/manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - .:/code
+    ports:
+      - 8000:8000
+    restart: always
+    depends_on:
+      - db
+    links:
+      - db
+
+  db:
+    image: postgres:10
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: stock123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+
+  nginx:
+    build: ./web
+    ports:
+      - 80:80
+    links:
+      - stock_web
+    depends_on:
+      - stock_web
+
+volumes:
+  postgres_data:
