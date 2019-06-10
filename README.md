@@ -39,9 +39,13 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 ## Hệ thống 
 - Ubuntu 16.04 cho server
 - python 3.6.6 
-- django 2.2.2 
 - angular 7
 - nodejs v11.13.0
+- postgresql 10.
+- Django==2.2.2
+- djangorestframework==3.9.4
+- djangorestframework-jwt==1.11.0
+- PyJWT==1.7.1
 
 ## Hướng đi của dự án 
 
