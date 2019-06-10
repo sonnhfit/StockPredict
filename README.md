@@ -24,6 +24,7 @@ Bạn sẽ không thể tham gia dự án nếu bạn không biết sử dụng 
 2. Có kiến thức về  [Typescript](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 3. Angular 7 [Tài liệu tại đây](https://angular.io/start)
 4. Hiểu về api và thao tác với API web server, xác thực và phân quyền với JWT
+5. Css lib boostrap 4
 
 ### Machine learning module
 Đối với những bạn join vào machine learning module các bạn cần có kiến thức về 
